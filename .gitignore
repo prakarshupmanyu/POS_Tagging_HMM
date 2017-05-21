@@ -1,0 +1,7 @@
+*.pdf
+*.zip
+*.txt
+*submit*
+*without*
+!hw5-data-corpus/*.txt
+test.py
